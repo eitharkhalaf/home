@@ -21,3 +21,6 @@ p{
     background-color:black;
     color:white;
            }
+table, th, td {
+  border: 20px solid black;
+}
